@@ -22,6 +22,12 @@ body {
   overflow: hidden;
 }
 
+.circle {
+  position: absolute;
+  float: left;
+  bottom: 16px
+}
+
 .banner-content {
   position: absolute;
   float: right;
