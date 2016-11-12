@@ -26,3 +26,12 @@ body {
   max-height: 500px;
   overflow: hidden;
 }
+
+.banner-content {
+  position: absolute;
+  float: left;
+  clear: right;
+  padding: 1rem;
+  bottom: 16px;
+}
+
