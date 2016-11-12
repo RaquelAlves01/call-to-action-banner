@@ -29,12 +29,10 @@ body {
 .banner-content {
   position: absolute;
   float: right;
-  width: 50%;
-  clear: right;
+  width: 75%;
   top: 10px;
   bottom: 16px;
-  left: 50%;
-  transform: translateX(-50%);
+  left: 150px;
 }
 
 h2 {
