@@ -54,6 +54,7 @@ p {
 }
 
 .btn-big {
+  float: left;
   border: 10px solid #333;
   background-color: #333;
   border-radius: 8px;
