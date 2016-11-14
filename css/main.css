@@ -22,11 +22,6 @@ body {
   overflow: hidden;
 }
 
-col {
-  float: left;
-  width: 25%;
-}
-
 .circle {
   position: absolute;
   float: left;
