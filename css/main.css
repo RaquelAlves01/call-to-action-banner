@@ -1,6 +1,6 @@
 html {
   box-sizing: border-box;
-  font: normal 100%/1.5 'Roboto', sans-serif;
+  font: normal 100%/1.5;
 }
 
 *, *::before, *::after {
@@ -33,30 +33,31 @@ body {
 
 .banner-content {
   position: absolute;
-  float: right;
   left: 50%;
   transform: translateX(-50%);
   top: 10px;
 }
 
 .banner-content h2 {
-  family: 'Roboto Condensed', cursive;
+  font-family: "Roboto Condensed", sans-serif;
   font-size: 3rem;
   margin: 0;
 }
 
 .banner-content p {
+  font-family: Roboto, sans-serif;
   font-size: 1.5rem;
 }
 
-.banner-content .btn {
+.btn {
+  font-family: Roboto, sans-serif;
   font-size: 1.5rem;
   color: #fff;
   text-decoration: none;
 }
 
 .btn-big {
-  float: left;
+  float: right;
   border: 10px solid #333;
   background-color: #333;
   border-radius: 8px;
