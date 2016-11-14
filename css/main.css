@@ -34,10 +34,9 @@ body {
 .banner-content {
   position: absolute;
   float: right;
-  width: 75%;
+  left: 50%;
+  transform: translateX(-50%);
   top: 10px;
-  bottom: 16px;
-  left: 150px;
 }
 
 h2 {
