@@ -39,9 +39,8 @@ body {
   top: 10px;
 }
 
-  family: "Roboto Condensed", sans-serif;
 .banner-content h2 {
-  family: 'Roboto Condensed', sans-serif;
+  family: 'Roboto Condensed', cursive;
   font-size: 3rem;
   margin: 0;
 }
