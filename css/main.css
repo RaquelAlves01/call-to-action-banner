@@ -29,13 +29,15 @@ body {
   margin: 0 10px;
   width: 200px;
   bottom: 250px;
+  left: 100px;
 }
 
 .banner-content {
   position: absolute;
-  left: 50%;
-  transform: translateX(-50%);
-  top: 10px;
+  float: right;
+  left: 60%;
+  transform: translateX(-60%);
+  top: 40px;
 }
 
 .banner-content h2 {
@@ -57,7 +59,7 @@ body {
 }
 
 .btn-big {
-  float: right;
+  float: left;
   border: 10px solid #333;
   background-color: #333;
   border-radius: 8px;
