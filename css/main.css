@@ -62,3 +62,8 @@ body {
   border-radius: 8px;
   padding: .5rem;
 }
+
+.btn:hover {
+  border: 10px solid #000;
+  background-color: #000;
+}
